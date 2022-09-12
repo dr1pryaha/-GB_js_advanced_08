@@ -878,7 +878,7 @@ img {
 }
 
 .subscribe {
-  background: url(/img/subscribe.jpg) no-repeat;
+  background: url(../img/subscribe.jpg) no-repeat;
   background-size: cover;
   padding-top: 64px;
   padding-bottom: 109px;
