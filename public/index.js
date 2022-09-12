@@ -8,4 +8,4 @@ import "./css/style.css";
 
 const app = new Vue(appMain);
 
-console.log(app);
+console.log("Для создания Pull Request :)");
